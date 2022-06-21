@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50em;
+    background : linear-gradient(to right ,#e5eaf5,#d0bdf4);
+}
+.btn{
+    margin-bottom: 10px;
+ }
+
+ #warning{
+    width: 500px;
+    text-align: center;
+    position: relative;
+   right: 700px;
+ }
